@@ -1,0 +1,9 @@
+{
+    "configurations": {
+        "app": {
+            "context": "./app",
+            "apiLocation": "http://localhost:7071",
+            "appLocation": "http://localhost:4200"
+        }
+    }
+}
